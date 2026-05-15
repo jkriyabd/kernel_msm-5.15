@@ -1,4 +1,4 @@
-Name: "Advanced Build"
+Name: "Build8"
 
 env:
   OUT_DIR: "out"

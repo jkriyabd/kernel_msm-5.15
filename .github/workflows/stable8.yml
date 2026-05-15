@@ -1,4 +1,4 @@
-Name: "BuildNew"
+Name: "BuildNews"
 
 env:
   OUT_DIR: "out"
